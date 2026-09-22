@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>NotchPulse Changelog</title>
+        <link>https://github.com/HieuKunn/NotchPulse</link>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>4.6.1</title>
+            <pubDate>Mon, 21 Sep 2026 16:40:00 +0000</pubDate>
+            <sparkle:version>92</sparkle:version>
+            <sparkle:shortVersionString>4.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/HieuKunn/NotchPulse-Release-for-everyone/releases/download/v4.6.1/NotchPulse.app.zip" length="23338352" type="application/octet-stream" sparkle:edSignature="xsEd6mB/FeyQ+90MVGWkVYmngQC0EJ8S7NNyCOVh1WL6lGIfnrl2+dRzHv/m6vTmFaykAOn3jCmb6v6/W6isBw=="/>
+        </item>
+        <item>
+            <title>4.6</title>
+            <pubDate>Mon, 21 Sep 2026 14:03:17 +0000</pubDate>
+            <sparkle:version>91</sparkle:version>
+            <sparkle:shortVersionString>4.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/HieuKunn/NotchPulse/releases/download/v4.6/NotchPulse.app.zip" length="23331336" type="application/octet-stream" sparkle:edSignature="/WY7S4Thp98Yk4s1doRYE0I2OlxePsysV+9NiMUiTHoA2vgO016zMqkhdWJkuuZI49dRGt4Eghe3X7Aq5ev8Aw=="/>
+        </item>
+        <item>
+            <title>4.5.0</title>
+            <pubDate>Mon, 21 Sep 2026 05:18:38 +0000</pubDate>
+            <sparkle:version>87</sparkle:version>
+            <sparkle:shortVersionString>4.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/HieuKunn/NotchPulse/releases/download/v4.5.0/NotchPulse.app.zip" length="23319707" type="application/octet-stream" sparkle:edSignature="KNoLJIT3PaDDi6vW5PsZt7OU4CLF1bZlrJa8hBNnOiKDk++uvArIXkbntUyFKkgOTorSI0nLEUKYX3/1Nn7uDw=="/>
+        </item>
+    </channel>
+</rss>
