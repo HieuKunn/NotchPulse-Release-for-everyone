@@ -6,6 +6,14 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>4.7.2</title>
+            <pubDate>Tue, 22 Sep 2026 18:05:38 +0000</pubDate>
+            <sparkle:version>111</sparkle:version>
+            <sparkle:shortVersionString>4.7.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/HieuKunn/NotchPulse-Release-for-everyone/releases/download/v4.7.2/NotchPulse.app.zip" length="23390301" type="application/octet-stream" sparkle:edSignature="HtAKQ6MKZMFaigpKvuL3E17zA2Jp4Rvk161BLqjYIt2GD0UwLdrptEQWqoxWJZtpAlQLD28E9JH5LxEoVhIYDA=="/>
+        </item>
+        <item>
             <title>4.7.1</title>
             <pubDate>Tue, 22 Sep 2026 17:54:25 +0000</pubDate>
             <sparkle:version>110</sparkle:version>
@@ -20,14 +28,6 @@
             <sparkle:shortVersionString>4.6.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/HieuKunn/NotchPulse-Release-for-everyone/releases/download/v4.6.9/NotchPulse.app.zip" length="23375751" type="application/octet-stream" sparkle:edSignature="U1WG2+9ZI4GFOMOmmSXl0kHGwHuIW2YvSrErzWebSxUXIlfEARYSWebA0cVBI8NFPZVsuXuOevv5cLzYEmmOCg=="/>
-        </item>
-        <item>
-            <title>4.6.6</title>
-            <pubDate>Tue, 22 Sep 2026 15:00:07 +0000</pubDate>
-            <sparkle:version>104</sparkle:version>
-            <sparkle:shortVersionString>4.6.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/HieuKunn/NotchPulse-Release-for-everyone/releases/download/v4.6.6/NotchPulse.app.zip" length="23375295" type="application/octet-stream" sparkle:edSignature="cy4qQ5K8soGAcQVZT1ay2VUQShVMhTOHSAuXqGUdsKSAS7n+chUip6dosmrN7Dj/mi8nNnRzY4uiT39P49QKBQ=="/>
         </item>
     </channel>
 </rss>
