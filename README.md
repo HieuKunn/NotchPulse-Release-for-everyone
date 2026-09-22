@@ -22,6 +22,9 @@
 
 **NotchPulse** transforms your MacBook camera cutout and external displays into a dynamic, responsive, and powerful workspace center. Engineered natively with Swift and SwiftUI, it integrates on-device biometric Face ID recognition, live synced lyrics, interactive media widgets, drag-and-drop file shelf, and battery status right in your menu bar.
 
+> 🌐 **Official Website & Live Showcase**: [https://notchpulse-app.web.app/](https://notchpulse-app.web.app/)  
+> Visit the official landing page for interactive web previews, changelog, and direct `.dmg` downloads.
+
 ---
 
 ## Core Features
@@ -92,12 +95,12 @@
 
 Install directly via Homebrew Cask:
 ```bash
-brew install --cask https://raw.githubusercontent.com/HieuKunn/NotchPulse/main/Casks/notchpulse.rb
+brew install --cask https://raw.githubusercontent.com/HieuKunn/NotchPulse-Release-for-everyone/main/Casks/notchpulse.rb
 ```
 
 Or tap the repository for easy future updates:
 ```bash
-brew tap HieuKunn/notchpulse https://github.com/HieuKunn/NotchPulse
+brew tap HieuKunn/notchpulse https://github.com/HieuKunn/NotchPulse-Release-for-everyone
 brew install --cask notchpulse
 ```
 
@@ -110,7 +113,7 @@ brew upgrade --cask notchpulse
 
 ### Option 2: Direct Download
 
-1. Download the latest `NotchPulse.dmg` package from [Releases](https://github.com/HieuKunn/NotchPulse/releases/latest).
+1. Download the latest `NotchPulse.dmg` package from [Releases](https://github.com/HieuKunn/NotchPulse-Release-for-everyone/releases/latest).
 2. Open `NotchPulse.dmg` and drag `NotchPulse.app` into your `/Applications` directory.
 3. Launch **NotchPulse** from Spotlight or `/Applications`.
 
