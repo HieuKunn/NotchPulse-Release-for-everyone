@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Sleek Dark Mode Header Banner (Clean Full-Bleed Logo, Caveat / Comic Font) -->
-  <img src="docs/assets/banner.svg?v=3" width="100%" alt="NotchPulse Banner" />
+  <!-- Sleek Header Banner (Auto Light/Dark Mode) -->
+  <img src="docs/assets/banner.svg?v=4" width="100%" alt="NotchPulse Banner" />
 
   <br/><br/>
 
@@ -21,6 +21,9 @@
 ## Overview
 
 **NotchPulse** transforms your MacBook camera cutout and external displays into a dynamic, responsive, and powerful workspace center. Engineered natively with Swift and SwiftUI, it integrates on-device biometric Face ID recognition, live synced lyrics, interactive media widgets, drag-and-drop file shelf, and battery status right in your menu bar.
+
+> 🌐 **Official Website & Live Showcase**: [https://notchpulse-app.web.app/](https://notchpulse-app.web.app/)  
+> Visit the official landing page for interactive web previews, changelog, and direct `.dmg` downloads.
 
 ---
 
