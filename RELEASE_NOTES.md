@@ -1,9 +1,29 @@
-# NotchPulse v4.7.3
+# NotchPulse v4.7.7
 
-## 🎯 Smart Display Routing & Normal Hover Separation
-- **Precise Screen Routing**: Multi-display camera screen switching is now strictly reserved for active Face ID unlock sessions (such as on the lock screen or during onboarding).
-- **Separated Notch Navigation**: Hovering over the Notch on secondary displays to view your Music, Calendar, or Shelf now stays on your active screen without unexpectedly switching to the camera screen.
-- **Zero-Latency Face ID & Instant Quit**: Includes all instant hover scan animations and clean application exit improvements.
+## 🔒 Smooth 80% Scale Face ID & Critical Build Fixes
+- **Refined Face ID Scale**: Clean 80% scale animation with instant response and natural breathing pulse.
+- **Reliable Application Exit**: Fixed AppDelegate quit handlers across Settings and Preferences for safe and instant app termination.
+
+# NotchPulse v4.7.6
+
+## 🔒 Proportional 80% Face ID Scale & Fluid Animation
+- **Custom 80% Scale Face ID**: Preserved the lightweight zero-delay Glance rendering architecture while sizing the Face ID scan animation to a refined 80% scale with silky-smooth breathing pulses.
+- **Instant Response & Zero Delay**: Instantaneous CALayer appearance on hover, transitioning seamlessly to the green checkmark unlock animation upon verification.
+
+# NotchPulse v4.7.5
+
+## 🔒 Authentic Glance-Parity Face ID & Layout Polish
+- **1:1 Glance Parity Face ID**: Rewrote the Face ID scanning layer to match Glance's authentic architecture with zero decode latency. Uses instant CALayer still rendering at rest and breathing pulse (`unlockstatic.png`), transitioning into the smooth green checkmark animation (`unlockanimation.mp4`) upon successful match.
+- **Harmonized Open Margins**: Refined horizontal and bottom padding across Notch and Dynamic Island open states to ensure consistent, balanced borders without redundant spacing.
+- **Clean Settings Sidebar**: Removed the redundant Quit button from the left navigation sidebar while keeping the dedicated "Quit app" button in the top-right header bar.
+
+# NotchPulse v4.7.4
+
+## 🧸 New Teddy Bear Menu Icon & Reliable Controls
+- **Cute Teddy Bear Menu Bar Icon**: Replaced the previous sparkle icon with a cute brown teddy bear SF symbol (`teddybear.fill`).
+- **Fixed Shortcut Conflict**: Ensured only pure `Command+Q` (and NOT `Command+Shift+Q`) quits the application, preventing accidental triggers of macOS system log-out.
+- **Clickable Settings Quit Button**: Fixed window background drag capturing so clicking "Quit app" in the Settings window header and sidebar terminates the app reliably.
+- **Harmonized Open Notch & Dynamic Island Spacing**: Increased inner horizontal padding to 12pt so Calendar times and Music player controls stay comfortably inset from the curved corners.
 
 # NotchPulse v4.7 (Important Release)
 
