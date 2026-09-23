@@ -904,9 +904,9 @@ function initSmoothScroll() {
 // =============================================================
 
 let appReleaseInfo = {
-  version: "v4.6.5",
-  versionShort: "v4.6.5",
-  name: "NotchPulse v4.6.5",
+  version: "v4.6.6",
+  versionShort: "v4.6.6",
+  name: "NotchPulse v4.6.6",
   downloadUrl: "https://github.com/HieuKunn/NotchPulse-Release-for-everyone/releases/latest/download/NotchPulse.dmg"
 };
 
@@ -915,7 +915,12 @@ function initReleaseAutoUpdater() {
     sessionStorage.removeItem("notchpulse_latest_release");
   } catch (e) {}
 
-  fetch("https://api.github.com/repos/HieuKunn/NotchPulse-Release-for-everyone/releases/latest")
+  fetch(`https://api.github.com/repos/HieuKunn/NotchPulse-Release-for-everyone/releases/latest?_ts=${Date.now()}`, {
+    cache: "no-store",
+    headers: {
+      "Accept": "application/vnd.github.v3+json"
+    }
+  })
     .then((res) => {
       if (!res.ok) throw new Error("GitHub API unavailable");
       return res.json();
