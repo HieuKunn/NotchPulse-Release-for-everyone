@@ -1,6 +1,6 @@
 # NotchPulse v4.8.3
 
-## 🔒 Face ID Stability & Recognition Window
-- **Full Recognition Window**: Fixed an issue where Face ID could prematurely trigger a "Face not recognized" error in under 1.5 seconds. The scan now patiently and resiliently uses your full configured scan time (e.g. 3–5 seconds), allowing proper camera auto-exposure and lighting adjustment.
-- **Seamless Match Latching**: Restored momentary match latching to prevent brief lighting changes, blinks, or minor head turns from interrupting successful recognition.
-- **Consistent Lock Screen Unlocking**: Ensured active face profiles are instantly synchronized upon wake for swift, reliable unlock attempts every time.
+## 🔒 Face ID Accuracy & Multi-Face Candidate Detection
+- **Restored Source Alignment**: Restored full Face ID scan timing and streak threshold logic identically to reference source, resolving immediate false rejection issues.
+- **Smart Multi-Face Identification**: Enhanced recognition logic to automatically detect and select the registered owner's face first when multiple people are present in front of the Mac.
+- **Optimized Memory Recovery**: Core ML models and alignment pixel buffer pools are immediately released upon unlocking to maintain minimal RAM usage.
