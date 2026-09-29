@@ -6,12 +6,12 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>5.0</title>
-            <pubDate>Tue, 29 Sep 2026 01:38:03 +0000</pubDate>
-            <sparkle:version>205</sparkle:version>
-            <sparkle:shortVersionString>5.0</sparkle:shortVersionString>
+            <title>5.1</title>
+            <pubDate>Tue, 29 Sep 2026 02:09:50 +0000</pubDate>
+            <sparkle:version>206</sparkle:version>
+            <sparkle:shortVersionString>5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/HieuKunn/NotchPulse-Release-for-everyone/releases/download/v5.0/NotchPulse.app.zip" length="19363303" type="application/octet-stream" sparkle:edSignature="S0yCW2DhI+QBjtXW7D5PwJaDWiQ7ACOWV8H1ftIjFFEBldvj3s9qXdz0KPJCJe1JYzPecyZWHYGiBAFmD3nDCw=="/>
+            <enclosure url="https://github.com/HieuKunn/NotchPulse-Release-for-everyone/releases/download/v5.1/NotchPulse.app.zip" length="19361240" type="application/octet-stream" sparkle:edSignature="R6lBph8HvVFknck13cQ5QgZIZFpAS02yFmRJuv9rPLrlcK988FnpR+h7cz62UYCpty8YfNJ9gxu3V2H8rhfIAg=="/>
         </item>
         <item>
             <title>5.0</title>
