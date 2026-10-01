@@ -8,10 +8,10 @@
         <item>
             <title>5.0</title>
             <pubDate>Thu, 01 Oct 2026 02:55:00 +0000</pubDate>
-            <sparkle:version>255</sparkle:version>
+            <sparkle:version>256</sparkle:version>
             <sparkle:shortVersionString>5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/HieuKunn/NotchPulse-Release-for-everyone/releases/download/v5.0/NotchPulse.app.zip" length="19422185" type="application/octet-stream" sparkle:edSignature="9R0yKE1g9tKTb7u6yU64QIXHHKsLbkD+RwzTtXdD/tX4PLFDx2qTUeawpzCgZDXEQJrD9kH67rdDS98g77pGAg=="/>
+            <enclosure url="https://github.com/HieuKunn/NotchPulse-Release-for-everyone/releases/download/v5.0/NotchPulse.app.zip" length="19422319" type="application/octet-stream" sparkle:edSignature="tHYozcj7ELCVD5LtZis8NASOYKv+yG1lXOncdDaTSkMzx0UhTUKuoe3hqOrpXEdQLMjyapUHinhgnjbTxeYKDQ=="/>
         </item>
         <item>
             <title>5.0</title>
